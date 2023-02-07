@@ -1,5 +1,5 @@
 # AirBnB clone project
-<img src="https://s3.amazonaws.com/alx-intranet.hbtn.io/uploads/medias/2018/6/65f4a1dd9c51265f49d0.png?X-Amz-Algorithm=AWS4-HMAC-SHA256&X-Amz-Credential=AKIARDDGGGOUSBVO6H7D%2F20230207%2Fus-east-1%2Fs3%2Faws4_request&X-Amz-Date=20230207T115705Z&X-Amz-Expires=86400&X-Amz-SignedHeaders=host&X-Amz-Signature=0a3d5af85305cafe6d1b9adefb856ca174e35bb3ce3019ae759842a74615fff1">
+![image](https://user-images.githubusercontent.com/87162921/217257162-37ba6cb8-05cd-41ee-9cfb-2a8f063f197d.png)
 
 # Description of the project
 This is the first step towards building your first full web application: the AirBnB clone. This first step is very important because you will use what you build during this project with all other following projects: HTML/CSS templating, database storage, API, front-end integration…
