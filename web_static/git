@@ -3,4 +3,5 @@
 git add .
 git commit -m "web_static"
 git push
+clear
 
