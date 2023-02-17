@@ -49,6 +49,7 @@ section.filters button:hover {
 .popover {
 	background-color: #FAFAFA;
 	display: none;
+	text-align: left;
 	border: 1px solid #DDDDDD;
 	border-radius: 4px;
 	z-index: 1;
