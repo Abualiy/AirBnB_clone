@@ -35,7 +35,8 @@ section.filters div.locations h3, div.amenities h3 {
 	text-align: left;
 	margin-left: 30px;
 }
-section.filters div.locations h4, div.amenities h4 {
+.locations h4,
+.amenities h4 {
 	font-weight: 400;
 	color red;
 	font-size: 64px;
