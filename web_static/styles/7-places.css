@@ -1,6 +1,5 @@
 .places {
-	display: inline-flex;
-	flex-wrap: wrap;
+	text-align: center;
 }
 .places h1 {
 	text-align: left;
@@ -12,6 +11,7 @@
 	margin: 20px;
 	border: 1px solid #FF5A5F;
 	border-radius: 4px;
+	display: inline-block;
 }
 .places article h2 {
 	font-size: 30px;
