@@ -19,15 +19,17 @@ section.filters button {
 section.filters button:hover {
 	opacity: .9;
 }
-section.filters div.locations, div.amenities {
+.locations,
+.amenities {
 	height: 100%;
 	width: 25%;
 	float: left;
 }
-section.filters div.locations {
+.locations {
 	border: 1px solid #DDDDDD;
 }
-section.filters div.locations h3, div.amenities h3 {
+.locations h3,
+.amenities h3 {
 	font-weight: 600;
 	font-size: 16px;
 	margin-top: 20px;
