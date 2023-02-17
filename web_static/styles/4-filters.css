@@ -4,7 +4,7 @@ section.filters{
 	width: 100%;
 	border: 1px solid #DDDDDD;
 	border-radius: 4px;
-	bottom: 60px;
+	padding-bottom: 60px;
 }
 section.filters button {
 	font-size: 18px;
