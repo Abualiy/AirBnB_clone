@@ -63,5 +63,13 @@ div.description {
   margin-top: 10px;
 }
 /*Amenities and Reviews*/
-div.amenities
+article div.amenities, 
+article div.reviews {
+  text-align: left;
+}
+article div.amenities h2 {
+  font-size: 16px;
+  border-bottom: 1px solid #DDDDDD;
+}
 
+article div.reviews{}
