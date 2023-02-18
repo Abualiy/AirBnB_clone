@@ -63,13 +63,45 @@ div.description {
   margin-top: 10px;
 }
 /*Amenities and Reviews*/
+
 article div.amenities, 
-article div.reviews {
+article div.reviews  {
   text-align: left;
+  margin-top: 50px;
 }
-article div.amenities h2 {
+article div.amenities h2,
+article div.reviews h2 {
   font-size: 16px;
   border-bottom: 1px solid #DDDDDD;
 }
+article div.amenities ul li .tv,
+article div.amenities ul li .wifi,
+article div.amenities ul li .pets {
+  padding-left: 30px;
+  width: 100px;
+  height: 100%;
+  line-height: 20px;
+	background-position: 20px 50%;
+}
+article div.amenities ul li .tv {
+  background: url(../images/icon_tv.png);
+  background-repeat: no-repeat;
+  background-size: 20px;
+}
+article div.amenities ul li .wifi {
+  background: url(../images/icon_wifi.png);
+  background-repeat: no-repeat;
+  background-size: 20px;
+}
+article div.amenities ul li .pets {
+  background: url(../images/icon_pets.png);
+  background-repeat: no-repeat;
+  background-size: 20px;
+}
 
-article div.reviews{}
+article div.reviews ul li h3 {
+  font-size: 14px;
+}
+article div.reviews ul li p {
+  font-size: 12px;
+}
