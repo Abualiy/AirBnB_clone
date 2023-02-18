@@ -66,9 +66,11 @@ div.description {
 
 article div.amenities, 
 article div.reviews  {
+  width: 100%;
   text-align: left;
   margin-top: 50px;
 }
+
 article div.amenities h2,
 article div.reviews h2 {
   font-size: 16px;
