@@ -79,6 +79,7 @@ article div.reviews h2 {
 article div.amenities ul li .tv,
 article div.amenities ul li .wifi,
 article div.amenities ul li .pets {
+
   padding-left: 30px;
   width: 100px;
   height: 100%;
@@ -100,8 +101,12 @@ article div.amenities ul li .pets {
   background-repeat: no-repeat;
   background-size: 20px;
 }
-
+article div.amenities ul li,
+article div.reviews ul li {
+  margin-left: -40px;
+}
 article div.reviews ul li h3 {
+  margin-bottom: -10px;
   font-size: 14px;
 }
 article div.reviews ul li p {
